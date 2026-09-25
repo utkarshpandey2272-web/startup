@@ -1,3 +1,3 @@
 # startup
 This is my first  Git Repository.
-author - utkarsh pandey
+<br><b><un>author </un>-</b> utkarsh pandey</br>
